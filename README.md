@@ -1,4 +1,4 @@
-#💫 About Me
+💫 About Me
 
 👋 Hi, I’m Deep Paira — a Frontend & Backend (Full-Stack) Developer
 
