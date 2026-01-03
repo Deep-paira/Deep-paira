@@ -1,5 +1,18 @@
-# 💫 About Me:
-👋 Hi, I’m a Frontend Developer<br><br>I build modern, high-performance web applications using React and Next.js, with a strong focus on clean UI, smooth animations, and great user experience.<br><br>🚀 Currently exploring advanced React patterns, Framer Motion animations, and web performance optimization<br>🤝 Open to collaborating on open-source frontend projects<br>💡 Passionate about frontend best practices, accessibility, and responsive design<br>🎯 Detail-oriented — I believe small UI details make a big difference
+💫 About Me
+
+👋 Hi, I’m Deep Paira — a Frontend & Backend (Full-Stack) Developer
+
+I build modern, scalable, and high-performance web applications using React, Next.js, Tailwind CSS, Framer Motion, and Django, with HTML5, CSS3, and JavaScript (ES6+) as my foundation. I focus on clean UI, smooth animations, accessibility, and reliable backend systems to deliver great user experiences end-to-end.
+
+🚀 Currently learning advanced React patterns, Framer Motion animations, and web performance optimization techniques
+🧠 Experienced in building Django-based backends, REST APIs, authentication, and database-driven applications
+🤝 Open to collaborating on open-source frontend and full-stack projects
+💡 Passionate about frontend best practices, responsive design, web accessibility, and clean code
+🎯 Detail-oriented — I believe small UI details make a big difference
+
+📫 Connect with me on Instagram @code_with_delta
+😄 Pronouns: He/Him
+⚡ Fun fact: I can spend hours perfecting a single button’s hover effect — because details matter.
 
 
 ## 🌐 Socials:
